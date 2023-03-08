@@ -8,4 +8,4 @@
 
 该数据集是多源气象数据集，涵盖法国西北部12个气象变量；
 ![image](https://raw.githubusercontent.com/joyfulscarf/MSMD-PNC-dataset/main/%E6%95%B0%E6%8D%AE.jpg)
-数据可以向作者申请，邮箱为：2426657567@qq.com
+数据可以向作者申请，邮箱为：2426657567@qq.com(暂时还未公开)
