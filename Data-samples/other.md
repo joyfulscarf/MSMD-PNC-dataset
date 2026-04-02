@@ -1,2 +1,2 @@
 
-这里放了CT的数据文件一个，IR和TP文件各一个
+One CT data file, one IR file, and one TP file are placed here.
